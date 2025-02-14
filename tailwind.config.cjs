@@ -1,5 +1,5 @@
 // filepath: /Users/nahyeonheum/HeumSite/tailwind.config.js
-export default {
+module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
