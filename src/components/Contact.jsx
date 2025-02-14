@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaInstagram, FaEnvelope } from 'react-icons/fa';
 
 const Contact = () => {
   const copyToClipboard = () => {
-    navigator.clipboard.writeText('your-email@example.com');
+    navigator.clipboard.writeText('nakisara01@ajou.ac.kr');
     alert('Email address copied to clipboard!');
   };
 
@@ -43,7 +43,7 @@ const Contact = () => {
           className="flex items-center justify-center bg-green-600 text-white py-4 rounded-lg text-lg space-x-2"
         >
           <FaEnvelope size={24} />
-          <span>nakisara01@ajou.ac.kr</span>
+          <span>Copy Email</span>
         </button>
       </div>
     </section>
