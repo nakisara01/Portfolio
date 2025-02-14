@@ -7,6 +7,8 @@ const Header = () => {
     section?.scrollIntoView({ behavior: 'smooth' });
   };
 
+
+  //TODO: Heum's Portfolio -> Portfolio로 변경
   return (
     <nav className="relative top-0 left-0 w-full bg-gray-800 py-4 z-50">
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">

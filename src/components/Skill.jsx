@@ -1,5 +1,7 @@
 import React from 'react';
 
+//TODO: Skill, CollaborationTools 구체화하고 이미지 적용하기
+
 const Skill = () => (
   <section className="my-20 px-5" id="skills">
     <header className="text-3xl font-bold mb-8">Skills</header>

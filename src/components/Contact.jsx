@@ -12,7 +12,7 @@ const Contact = () => {
       <header className="text-3xl font-bold mb-8">Contact Me</header>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <a
-          href="https://www.linkedin.com/in/your-linkedin"
+          href="https://www.linkedin.com/in/%ED%98%84%ED%9D%A0-%EB%82%98-441a91262/"
           target="_blank"
           rel="noreferrer"
           className="flex items-center justify-center bg-blue-600 text-white py-4 rounded-lg text-lg space-x-2"
@@ -21,7 +21,7 @@ const Contact = () => {
           <span>LinkedIn</span>
         </a>
         <a
-          href="https://github.com/your-github"
+          href="https://github.com/nakisara01"
           target="_blank"
           rel="noreferrer"
           className="flex items-center justify-center bg-gray-800 text-white py-4 rounded-lg text-lg space-x-2"
@@ -30,7 +30,7 @@ const Contact = () => {
           <span>GitHub</span>
         </a>
         <a
-          href="https://www.instagram.com/your-instagram"
+          href="https://www.instagram.com/n_joid/"
           target="_blank"
           rel="noreferrer"
           className="flex items-center justify-center bg-pink-500 text-white py-4 rounded-lg text-lg space-x-2"
@@ -43,7 +43,7 @@ const Contact = () => {
           className="flex items-center justify-center bg-green-600 text-white py-4 rounded-lg text-lg space-x-2"
         >
           <FaEnvelope size={24} />
-          <span>Copy Email</span>
+          <span>nakisara01@ajou.ac.kr</span>
         </button>
       </div>
     </section>

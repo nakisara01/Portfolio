@@ -1,5 +1,7 @@
 import React from 'react';
 
+//TODO: XIVE, 동연 홈페이지, flutter 앱 추가하기
+
 const Project = () => (
   <section className="my-20 px-5" id="projects">
     <header className="text-3xl font-bold mb-8">Projects</header>
