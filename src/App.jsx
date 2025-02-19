@@ -8,9 +8,8 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="bg-gray-900 text-white min-h-screen flex flex-col">
-      <Header />
-      <main className="flex-grow w-full px-4">
+  <div className="bg-gray-900 text-white min-h-screen flex flex-col">
+  <main className="flex-grow w-full px-4">
   <Hero />
   <Project />
   <section id="skills" className="my-16">
