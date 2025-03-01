@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './components/Header';
 import Hero from './components/Hero';
 import Project from './components/Project';
+import Activity from './components/Activities';
 import './index.css';
 import { Skill, CICD, CollaborationTools } from './components/Skill';
 import Contact from './components/Contact';
@@ -12,6 +12,7 @@ function App() {
   <main className="flex-grow w-full px-4">
   <Hero />
   <Project />
+  {/* <Activity /> */}
   <section id="skills" className="my-16">
     <Skill />
     <CICD />

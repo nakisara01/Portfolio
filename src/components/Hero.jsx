@@ -31,7 +31,7 @@ const Hero = () => {
         {/* 중앙 맥북 */}
         <div className="relative w-[800px] h-auto">
           <img 
-            src="/images/macbook-mockup.png" 
+            // src="/images/macbook-mockup.png" 
             alt="MacBook Mockup" 
             className="w-[800px] h-auto"
           />
